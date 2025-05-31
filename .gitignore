@@ -1,0 +1,33 @@
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Dossiers système
+.vs/
+_ReSharper*/
+*.ncrunch*
+*.DS_Store
+
+# Paquets NuGet restaurables
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Fichiers générés
+*.exe
+*.dll
+
+# Autres
+*.db
+*.bak
+*.swp
+*.sln.docstates

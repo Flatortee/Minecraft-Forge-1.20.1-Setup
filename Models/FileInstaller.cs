@@ -47,13 +47,6 @@ namespace MCjava.Models
         /// </summary>
         public static void Init(string _savedPath)
         {
-            string javaRoot = Path.Combine(_savedPath, "src", "main", "java");
-            if (!Directory.Exists(javaRoot))
-            {
-                MessageBox.Show("Le chemin Java n'existe pas.", "Erreur", MessageBoxButton.OK, MessageBoxImage.Error);
-                return;
-            }
-
             configPath = "config.json";
             zipFilePath = "mdk.zip";
             savedPath = _savedPath;

@@ -8,15 +8,13 @@
         Title="Minecraft Mod Setup" Height="450" Width="800">
     <Grid>
 
-        <!-- Image de fond principale -->
-        <Grid.Background>
-            <ImageBrush ImageSource="/background.png"/>
-        </Grid.Background>
-
         <!-- Overlay semi-transparent pour améliorer la lisibilité -->
         <Grid>
             <Grid.Background>
-                <SolidColorBrush Color="#4C000000"/>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF6CDAFF" Offset="0"/>
+                </LinearGradientBrush>
             </Grid.Background>
         </Grid>
 

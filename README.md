@@ -1,14 +1,15 @@
-# Minecraft Forge 1.20.1 Setup
+# Minecraft Forge 1.20.1 Modding Starter Template
 
-Ce repository fournit une base complète pour commencer le développement de mods sur Minecraft Forge 1.20.1. Vous y trouverez tous les fichiers nécessaires pour configurer rapidement votre environnement de modding, compiler votre mod et le tester dans le client Minecraft. Ce projet s’adresse aussi bien aux débutants qu’aux moddeurs expérimentés souhaitant un point de départ propre et fonctionnel.
+This repository provides a complete foundation to kickstart your mod development for Minecraft Forge 1.20.1. Inside, you'll find all the necessary files to quickly set up your modding environment, compile your mod, and test it within the Minecraft client. This project is intended for both beginners and experienced modders seeking a clean and functional starting point.
 
-**Fonctionnalités principales :**
-- Structure de projet prête à l’emploi pour Minecraft Forge 1.20.1
-- Scripts d’automatisation pour compiler et lancer rapidement le mod
-- Accès au code source complet pour une transparence totale
-- Documentation pour bien démarrer
+## Main Features
 
-N’hésitez pas à explorer, modifier et adapter ce projet selon vos besoins !
+- **Ready-to-use project structure for Minecraft Forge 1.20.1**
+- **Automation scripts to quickly compile and launch your mod**
+- **Full access to the source code for complete transparency**
+- **Documentation to help you get started**
+
+Feel free to explore, modify, and adapt this project to suit your needs!
 
 ---
 

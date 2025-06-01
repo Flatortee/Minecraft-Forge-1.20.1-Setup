@@ -21,6 +21,7 @@ This warning is most likely triggered by the build.bat file.
 That script is simply used to compile the mod and launch it in the Minecraft client for testing purposes.
 
 You can safely delete or inspect the batch file if you're unsure.
+(but if delete you can ./build in terminal)
 
 ![image](https://github.com/user-attachments/assets/e9fa2b86-4964-4b96-a7e9-54ec88ec7a8a)
 

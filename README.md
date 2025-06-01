@@ -7,7 +7,6 @@ This repository provides a complete foundation to kickstart your mod development
 - **Ready-to-use project structure for Minecraft Forge 1.20.1**
 - **Automation scripts to quickly compile and launch your mod**
 - **Full access to the source code for complete transparency**
-- **Documentation to help you get started**
 
 Feel free to explore, modify, and adapt this project to suit your needs!
 

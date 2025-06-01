@@ -1,7 +1,5 @@
 # Minecraft Forge 1.20.1 Setup
 
-# Minecraft Forge 1.20.1 Setup
-
 Ce repository fournit une base complète pour commencer le développement de mods sur Minecraft Forge 1.20.1. Vous y trouverez tous les fichiers nécessaires pour configurer rapidement votre environnement de modding, compiler votre mod et le tester dans le client Minecraft. Ce projet s’adresse aussi bien aux débutants qu’aux moddeurs expérimentés souhaitant un point de départ propre et fonctionnel.
 
 **Fonctionnalités principales :**
